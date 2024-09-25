@@ -1,0 +1,15 @@
+﻿  main.c
+C:\Users\There\source\repos\C-Start gesamt\C-Start gesamt\main.c(11,5): warning C4098: "Aufgabe3": "void"-Funktion gibt einen Wert zurück
+C:\Users\There\source\repos\C-Start gesamt\C-Start gesamt\main.c(16,5): warning C4098: "Aufgabe4": "void"-Funktion gibt einen Wert zurück
+C:\Users\There\source\repos\C-Start gesamt\C-Start gesamt\main.c(38,5): warning C4098: "Aufgabe56": "void"-Funktion gibt einen Wert zurück
+C:\Users\There\source\repos\C-Start gesamt\C-Start gesamt\main.c(57,5): warning C4098: "Aufgabe789": "void"-Funktion gibt einen Wert zurück
+C:\Users\There\source\repos\C-Start gesamt\C-Start gesamt\main.c(89,5): warning C4098: "Aufgabe10": "void"-Funktion gibt einen Wert zurück
+C:\Users\There\source\repos\C-Start gesamt\C-Start gesamt\main.c(120,5): warning C4098: "Aufgabe11": "void"-Funktion gibt einen Wert zurück
+C:\Users\There\source\repos\C-Start gesamt\C-Start gesamt\main.c(128,5): warning C4098: "Aufgabe12": "void"-Funktion gibt einen Wert zurück
+C:\Users\There\source\repos\C-Start gesamt\C-Start gesamt\main.c(151,5): warning C4098: "Aufgabe14": "void"-Funktion gibt einen Wert zurück
+C:\Users\There\source\repos\C-Start gesamt\C-Start gesamt\main.c(172,5): warning C4098: "Aufgabe13": "void"-Funktion gibt einen Wert zurück
+C:\Users\There\source\repos\C-Start gesamt\C-Start gesamt\main.c(185,5): warning C4098: "Aufgabe15": "void"-Funktion gibt einen Wert zurück
+C:\Users\There\source\repos\C-Start gesamt\C-Start gesamt\main.c(199,5): warning C4098: "Aufgabe16": "void"-Funktion gibt einen Wert zurück
+C:\Users\There\source\repos\C-Start gesamt\C-Start gesamt\main.c(210,5): warning C4098: "Aufgabe17": "void"-Funktion gibt einen Wert zurück
+  LINK : C:\Users\There\source\repos\C-Start gesamt\x64\Debug\C-Start gesamt.exe wurde nicht gefunden oder beim letzten inkrementellen Linkvorgang nicht erstellt; vollständiger Link wird durchgeführt.
+  C-Start gesamt.vcxproj -> C:\Users\There\source\repos\C-Start gesamt\x64\Debug\C-Start gesamt.exe
